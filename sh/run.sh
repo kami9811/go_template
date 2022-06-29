@@ -1,0 +1,1 @@
+docker-compose exec goapp go run $1
